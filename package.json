@@ -26,8 +26,5 @@
   "bugs": {
     "url": "https://github.com/fbonesso/react-native-masked-input/issues"
   },
-  "homepage": "https://github.com/fbonesso/react-native-masked-input#readme",
-  "dependencies": {
-    "react-native-masked-input": "git://github.com/CodingZeal/react-native-masked-input#master"
-  }
+  "homepage": "https://github.com/fbonesso/react-native-masked-input#readme"
 }
